@@ -1,0 +1,9 @@
+ipykernel
+pandas
+psycopg2-binary
+sqlalchemy
+langchain
+langchain-community
+dotenv
+langchain-openai
+streamlit
